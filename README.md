@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JuanArenas2002)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanArenas2002)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmanueljmap2002@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=JuanArenas2002&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
 ## About Me
 
@@ -97,7 +97,7 @@ My focus is on **backend architecture** — designing systems that are maintaina
 
 ### Research Analytics API
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/tu-usuario/convocatoria)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/JuanArenas2002/convocatoria)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 
@@ -105,7 +105,7 @@ Production-grade REST API for academic bibliometric analysis. Integrates with Sc
 
 **Architecture:** Hexagonal (ports & adapters), clean dependency inversion, domain value objects (`DOI`, `ORCID`), isolated test suite.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario/convocatoria)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanArenas2002/convocatoria)
 
     </td>
     <td width="50%" valign="top">
@@ -160,20 +160,20 @@ Short, impactful description of the project. Focus on the problem it solves, not
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
-<img height="170" src="https://streak-stats.demolab.com?user=tu-usuario&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArenas2002&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
+<img height="170" src="https://streak-stats.demolab.com?user=JuanArenas2002&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanArenas2002&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuanArenas2002&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -206,8 +206,8 @@ Open to **backend internships**, **junior roles**, and **collaborative open-sour
 | Channel | |
 |---------|--|
 | Email | [juanmanueljmap2002@gmail.com](mailto:juanmanueljmap2002@gmail.com) |
-| LinkedIn | [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario) |
-| GitHub | [github.com/tu-usuario](https://github.com/tu-usuario) |
+| LinkedIn | [linkedin.com/in/JuanArenas2002](https://linkedin.com/in/JuanArenas2002) |
+| GitHub | [github.com/JuanArenas2002](https://github.com/JuanArenas2002) |
 
 </div>
 
@@ -217,6 +217,6 @@ Open to **backend internships**, **junior roles**, and **collaborative open-sour
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=58A6FF&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=JuanArenas2002&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
