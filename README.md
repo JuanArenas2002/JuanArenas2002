@@ -53,9 +53,6 @@ My focus is on **backend architecture** — designing systems that are maintaina
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-    </td>
-    <td valign="top" width="33%">
-
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -68,8 +65,6 @@ My focus is on **backend architecture** — designing systems that are maintaina
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-    </td>
-    <td valign="top" width="33%">
 
 **DevOps & Tools**
 
@@ -83,7 +78,6 @@ My focus is on **backend architecture** — designing systems that are maintaina
 ![REST](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square)
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-6C3483?style=flat-square)
 
-    </td>
   </tr>
 </table>
 
@@ -107,8 +101,6 @@ Production-grade REST API for academic bibliometric analysis. Integrates with Sc
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanArenas2002/convocatoria)
 
-    </td>
-    <td width="50%" valign="top">
 
 ### [Project Name]
 
@@ -121,7 +113,7 @@ Short, impactful description of the project. Focus on the problem it solves, not
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-    </td>
+
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -137,8 +129,7 @@ Short, impactful description of the project. Focus on the problem it solves, not
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-    </td>
-    <td width="50%" valign="top">
+
 
 ### [Project Name]
 
@@ -150,7 +141,7 @@ Short, impactful description of the project. Focus on the problem it solves, not
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-    </td>
+
   </tr>
 </table>
 
