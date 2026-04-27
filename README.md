@@ -87,7 +87,6 @@ My focus is on **backend architecture** — designing systems that are maintaina
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArenas2002&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
 <img height="170" src="https://streak-stats.demolab.com?user=JuanArenas2002&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" />
 
 </div>
@@ -112,10 +111,10 @@ My focus is on **backend architecture** — designing systems that are maintaina
   <tr>
     <td>
       <strong>Universidad Simón Bolívar</strong><br/>
-      B.Sc. Systems Engineering <em>(In progress)</em>
+      Systems Engineering <em></em>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/2021–Present-0A66C2?style=flat-square" />
+      <img src="https://img.shields.io/badge/2021–2025-0A66C2?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -133,7 +132,7 @@ Open to **backend internships**, **junior roles**, and **collaborative open-sour
 | Channel | |
 |---------|--|
 | Email | [juanmanueljmap2002@gmail.com](mailto:juanmanueljmap2002@gmail.com) |
-| LinkedIn | [linkedin.com/in/JuanArenas2002](https://linkedin.com/in/JuanArenas2002) |
+| LinkedIn | [linkedin](https://www.linkedin.com/in/juan-manuel-arenas-570448238/) |
 | GitHub | [github.com/JuanArenas2002](https://github.com/JuanArenas2002) |
 
 </div>
