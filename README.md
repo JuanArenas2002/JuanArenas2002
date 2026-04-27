@@ -81,71 +81,7 @@ My focus is on **backend architecture** — designing systems that are maintaina
   </tr>
 </table>
 
----
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Research Analytics API
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/JuanArenas2002/convocatoria)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-
-Production-grade REST API for academic bibliometric analysis. Integrates with Scopus and OpenAlex APIs, implements an ETL deduplication pipeline, and exposes H-index, citation metrics, and author profiles via structured JSON endpoints.
-
-**Architecture:** Hexagonal (ports & adapters), clean dependency inversion, domain value objects (`DOI`, `ORCID`), isolated test suite.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanArenas2002/convocatoria)
-
-
-### [Project Name]
-
-[![Stack](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](#)
-[![Stack](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-Short, impactful description of the project. Focus on the problem it solves, not just the tech used.
-
-**Highlight:** one key technical or architectural decision worth noting.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### [Project Name]
-
-[![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Stack](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-
-Short, impactful description of the project. Focus on the problem it solves, not just the tech used.
-
-**Highlight:** one key technical or architectural decision worth noting.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-
-
-### [Project Name]
-
-[![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-
-Short, impactful description of the project. Focus on the problem it solves, not just the tech used.
-
-**Highlight:** one key technical or architectural decision worth noting.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-
-  </tr>
-</table>
-
----
 
 ## GitHub Statistics
 
